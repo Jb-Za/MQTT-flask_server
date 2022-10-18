@@ -1,0 +1,24 @@
+body {
+    background: Linen;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 1.2em;
+    color: DarkSlateGray;
+}
+
+h2 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1.8em;
+    color: FireBrick;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+}
